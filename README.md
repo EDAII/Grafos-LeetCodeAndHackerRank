@@ -215,7 +215,7 @@ Observações:
 
 ## Vídeo
 
-Explicamos todos os códigos que fizemos na plataforma HackerRank e LeetCode:
+Explicamos todos os códigos que fizemos na plataforma LeetCode e do Labirinto:
 
 <a href="https://youtu.be/TFeyVYnvyy4" target="_blank">
     <p align="center"><strong>Vídeo do Projeto</strong></p>
